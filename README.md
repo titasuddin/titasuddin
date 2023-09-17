@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Titas Uddin</h1>
 <h3 align="center">Cloud & DevOps | RHCE</h3>
-<img align="right" alt="DevOps" widht="300" src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif"/>
+<img align="right" alt="DevOps" widht="300" src="https://github.com/titasuddin/titasuddin/blob/main/ezgif.com-resize%20(1).gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titasuddin&label=Profile%20views&color=0e75b6&style=flat" alt="titasuddin" /> </p>
 
